@@ -1,2 +1,2 @@
 # intro
-My clone repository
+My projects are uploaded here
